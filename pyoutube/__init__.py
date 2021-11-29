@@ -1,6 +1,6 @@
 " pyoutube -- Console Youtube Audio Player"
 
-version = (0, 0, 0, 1)
+version_info = (0, 0, 0, 1)
 
 __version__ = version = '.'.join(map(str, version_info))
 __project__ = __name__
